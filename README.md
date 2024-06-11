@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @bergflow.
-- 👀 I’m interested in architecture, design and music.
 - 🌱 I’m currently learning Web Design.
 
 <!---
