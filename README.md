@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @bergflow.
-- 🌱 I’m currently learning Web Design.
+- Hi, I’m @bergflow.
+- 
+  
 
 <!---
 bergflow/bergflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
