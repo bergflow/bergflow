@@ -1,5 +1,4 @@
-- Hi, I’m @bergflow.
-  Martin, 28, NORWAY.
+
   
 
 <!---
