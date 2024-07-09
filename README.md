@@ -1,5 +1,3 @@
-psych degree, fps enthusiast, learning web development.
-  
 
 <!---
 bergflow/bergflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
