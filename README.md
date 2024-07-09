@@ -1,4 +1,4 @@
-
+psych degree, fps enthusiast, learning web development.
   
 
 <!---
